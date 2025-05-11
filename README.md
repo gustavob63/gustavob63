@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Iniciante`**
 
-Me chamo Gustavo Barbosa Oliveira, tenho 18 anos e sou de Brasília DF. Concluí o ensino médio e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNICeub. Gosto muito desse mundo da tecnologia, que cada vez mais vai transformando nosso planeta e o dia a dia das pessoas. Mais sobre mim e minhas experiências profissionais "[Gustavo Barbosa](www.linkedin.com/in/gustavo-barbosa-oliveira-436b25351)"
+Me chamo Gustavo Barbosa Oliveira, tenho 18 anos e sou de Brasília DF. Concluí o ensino médio e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UniCEUB. Gosto muito desse mundo da tecnologia, que cada vez mais vai transformando nosso planeta e o dia a dia das pessoas. Mais sobre mim e minhas experiências profissionais "[Gustavo Barbosa](https://www.linkedin.com/in/gustavo-barbosa-oliveira-436b25351)"
 
 ---
 
