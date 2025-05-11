@@ -48,7 +48,7 @@ Me chamo Gustavo Barbosa Oliveira, tenho 18 anos e sou de Brasília DF. Concluí
 ### 📊 Estatísticas
 
 <p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
