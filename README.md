@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Gustavo Barbosa
 
-**`Beginner Developer`**
+**`Desenvolvedor Iniciante`**
 
 Me chamo Gustavo Barbosa Oliveira, tenho 18 anos e sou de Brasília DF. Concluí o ensino médio e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNICeub. Gosto muito desse mundo da tecnologia, que cada vez mais vai transformando nosso planeta e o dia a dia das pessoas. Mais sobre mim e minhas experiências profissionais "[Gustavo Barbosa](www.linkedin.com/in/gustavo-barbosa-oliveira-436b25351)"
 
@@ -47,12 +47,20 @@ Me chamo Gustavo Barbosa Oliveira, tenho 18 anos e sou de Brasília DF. Concluí
 
 ### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gustavob63&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFredCardoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
-  />
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavob63&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
